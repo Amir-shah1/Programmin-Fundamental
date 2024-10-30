@@ -24,16 +24,16 @@
 
 
 # Second lab
-# consept of stack and heap
-# variable naming conintion.
-# memory alocation and distribution
-# path of slids slides
+# concept of stack and heap
+# variable naming convintion.
+# memory alocation and distribution(how much memory is assign to diffent data types)
+# path of slids 
 # Arithematic opreator
 # order of precedence
 # Truncation
-# Is C single treated language
+# Is C single treated language?
 
-## mised lecture
+# mised lecture
 # Data types
 # Different way of printing & writing other number system value
 # Maximum data can store simple data types
@@ -53,4 +53,33 @@
 # scanf & printf
 # getchar() & putchar
 
+# so far we have studied 4 chapter in c language
+# compelte the small code practics in book on page: 57
+# Opreator precedence
+# Assignment opreator, logical opreator
+# Compound assignment opreator
+# Increment and decrement
+# prefix and postfix, in expresstion and with assignment opreator
+
+# understanding the flow of our program
+# how condtional statement execute in program
+# if, else if, else
+
+# Friday lecture
+# Discuss logical opreator (&&, ||, !)
+#
+
+# lab (2024/10/23)
+# nested if else-if
+# solve some question related to if else-if conditional statement
+
+# class (2024/10/24)
+# switch statements understanding
+# fall through behavior (when messing the break in case);
+# The condtional opreator (codition? expressio1: expression2);
+# max = (a > b? a> c? a: c: b > c? b : c)
+
+# Friday lecture(absent)
+# Discusstion fo do while loop
+# While
 
