@@ -1,0 +1,472 @@
+Section,Day,Time,Subject,Teacher,Room
+1,A,Monday,2:00-3:30,Artificial Inteli,Dr. Brown,S124
+1,A,Monday,3:00-5:00,Web Development,Mr. Martinez,S107
+1,A,Monday,10:30-12:00,Data Structures,Dr. Lee,S102
+1,A,Monday,9:00-10:30,Algorithms,Dr. Brown,S107
+1,A,Tuesday,10:30-12:00,Operating Systems,Dr. Smith,S116
+1,A,Tuesday,9:00-10:30,Computer Networks,Prof. Johnson,S105
+1,A,Wednesday,12:00-2:00,Artificial Inteli,Dr. Clark,S112
+1,A,Wednesday,9:00-10:30,Web Development,Prof. Wilson,S125
+1,A,Wednesday,3:00-5:00,Cloud Computing,Dr. Brown,S114
+1,A,Thursday,3:00-5:00,Software Enginee,Prof. Wilson,S101
+1,A,Thursday,2:00-3:30,Operating Systems,Dr. Lee,S113
+1,A,Friday,12:00-2:00,Computer Networks,Prof. Wilson,S121
+1,A,Friday,3:00-5:00,Operating Systems,Prof. Lewis,S104
+1,B,Monday,2:00-3:30,Operating Systems,Prof. Wilson,S119
+1,B,Monday,12:00-2:00,Database Systems,Prof. Johnson,S113
+1,B,Monday,9:00-10:30,Operating Systems,Mr. Martinez,S104
+1,B,Tuesday,2:00-3:30,Algorithms,Prof. Lewis,S115
+1,B,Tuesday,10:30-12:00,Computer Networks,Ms. Garcia,S103
+1,B,Tuesday,3:00-5:00,Algorithms,Ms. Davis,S117
+1,B,Wednesday,2:00-3:30,Computer Networks,Prof. Wilson,S102
+1,B,Wednesday,3:00-5:00,Artificial Inteli,Mr. Martinez,S109
+1,B,Thursday,9:00-10:30,Data Structures,Prof. Wilson,S112
+1,B,Thursday,2:00-3:30,Software Enginee,Dr. Brown,S108
+1,B,Thursday,3:00-5:00,Cybersecurity,Dr. Smith,S125
+1,B,Thursday,10:30-12:00,Operating Systems,Dr. Lee,S108
+1,B,Friday,9:00-10:30,Artificial Inteli,Prof. Johnson,S120
+1,B,Friday,12:00-2:00,Software Enginee,Prof. Lewis,S101
+1,B,Friday,10:30-12:00,Algorithms,Prof. Wilson,S105
+1,C,Monday,10:30-12:00,Database Systems,Ms. Davis,S122
+1,C,Monday,2:00-3:30,Data Structures,Prof. Wilson,S123
+1,C,Tuesday,2:00-3:30,Algorithms,Ms. Davis,S120
+1,C,Tuesday,3:00-5:00,Computer Networks,Prof. Lewis,S101
+1,C,Tuesday,9:00-10:30,Data Structures,Mr. Martinez,S101
+1,C,Wednesday,2:00-3:30,Computer Networks,Mr. Martinez,S104
+1,C,Wednesday,9:00-10:30,Database Systems,Prof. Johnson,S109
+1,C,Thursday,3:00-5:00,Database Systems,Prof. Johnson,S110
+1,C,Thursday,12:00-2:00,Software Enginee,Dr. Lee,S104
+1,C,Thursday,9:00-10:30,Artificial Inteli,Dr. Clark,S124
+1,C,Thursday,10:30-12:00,Algorithms,Dr. Clark,S107
+1,C,Friday,10:30-12:00,Algorithms,Dr. Lee,S119
+1,C,Friday,12:00-2:00,Data Structures,Dr. Brown,S111
+1,C,Friday,3:00-5:00,Software Enginee,Mr. Martinez,S124
+1,D,Monday,2:00-3:30,Database Systems,Prof. Wilson,S105
+1,D,Monday,12:00-2:00,Database Systems,Dr. Clark,S114
+1,D,Tuesday,3:00-5:00,Data Structures,Prof. Lewis,S108
+1,D,Tuesday,10:30-12:00,Computer Networks,Dr. Brown,S120
+1,D,Tuesday,9:00-10:30,Database Systems,Dr. Brown,S121
+1,D,Wednesday,2:00-3:30,Database Systems,Dr. Smith,S120
+1,D,Wednesday,3:00-5:00,Data Structures,Dr. Smith,S103
+1,D,Wednesday,9:00-10:30,Algorithms,Ms. Davis,S109
+1,D,Wednesday,10:30-12:00,Web Development,Ms. Davis,S124
+1,D,Thursday,12:00-2:00,Algorithms,Dr. Brown,S110
+1,D,Thursday,9:00-10:30,Artificial Inteli,Dr. Smith,S111
+1,D,Friday,12:00-2:00,Cloud Computing,Prof. Lewis,S102
+1,D,Friday,9:00-10:30,Web Development,Ms. Davis,S107
+2,A,Monday,9:00-10:30,Operating Systems,Prof. Lewis,S113
+2,A,Monday,2:00-3:30,Software Enginee,Prof. Wilson,S117
+2,A,Tuesday,10:30-12:00,Computer Networks,Prof. Johnson,S104
+2,A,Tuesday,2:00-3:30,Web Development,Dr. Brown,S102
+2,A,Wednesday,3:00-5:00,Cybersecurity,Dr. Clark,S102
+2,A,Wednesday,9:00-10:30,Algorithms,Dr. Lee,S120
+2,A,Wednesday,2:00-3:30,Algorithms,Ms. Davis,S105
+2,A,Thursday,3:00-5:00,Cybersecurity,Mr. Martinez,S107
+2,A,Thursday,2:00-3:30,Operating Systems,Dr. Clark,S112
+2,A,Thursday,10:30-12:00,Operating Systems,Dr. Clark,S107
+2,A,Friday,9:00-10:30,Cybersecurity,Mr. Martinez,S117
+2,A,Friday,12:00-2:00,Computer Networks,Mr. Martinez,S114
+2,A,Friday,2:00-3:30,Data Structures,Dr. Clark,S114
+2,B,Monday,12:00-2:00,Computer Networks,Dr. Lee,S112
+2,B,Monday,9:00-10:30,Operating Systems,Dr. Lee,S110
+2,B,Tuesday,9:00-10:30,Database Systems,Dr. Lee,S110
+2,B,Tuesday,12:00-2:00,Database Systems,Dr. Brown,S115
+2,B,Wednesday,3:00-5:00,Software Enginee,Prof. Wilson,S104
+2,B,Wednesday,2:00-3:30,Operating Systems,Dr. Clark,S123
+2,B,Wednesday,10:30-12:00,Data Structures,Prof. Johnson,S124
+2,B,Thursday,3:00-5:00,Database Systems,Ms. Garcia,S102
+2,B,Thursday,9:00-10:30,Computer Networks,Dr. Smith,S115
+2,B,Thursday,12:00-2:00,Web Development,Dr. Smith,S118
+2,B,Friday,10:30-12:00,Software Enginee,Ms. Davis,S120
+2,B,Friday,9:00-10:30,Cybersecurity,Dr. Brown,S113
+2,C,Monday,9:00-10:30,Cybersecurity,Dr. Brown,S121
+2,C,Monday,3:00-5:00,Software Enginee,Prof. Johnson,S124
+2,C,Monday,12:00-2:00,Cybersecurity,Dr. Smith,S124
+2,C,Monday,2:00-3:30,Software Enginee,Dr. Lee,S122
+2,C,Tuesday,3:00-5:00,Algorithms,Prof. Johnson,S122
+2,C,Tuesday,2:00-3:30,Cybersecurity,Ms. Garcia,S103
+2,C,Tuesday,12:00-2:00,Cybersecurity,Dr. Clark,S119
+2,C,Tuesday,10:30-12:00,Cloud Computing,Prof. Johnson,S118
+2,C,Wednesday,3:00-5:00,Operating Systems,Mr. Martinez,S104
+2,C,Wednesday,10:30-12:00,Data Structures,Prof. Johnson,S119
+2,C,Wednesday,9:00-10:30,Cybersecurity,Prof. Lewis,S110
+2,C,Wednesday,12:00-2:00,Operating Systems,Dr. Clark,S116
+2,C,Thursday,9:00-10:30,Computer Networks,Prof. Wilson,S115
+2,C,Thursday,10:30-12:00,Database Systems,Prof. Wilson,S109
+2,C,Thursday,12:00-2:00,Algorithms,Dr. Brown,S111
+2,C,Thursday,2:00-3:30,Cybersecurity,Dr. Brown,S108
+2,C,Friday,9:00-10:30,Software Enginee,Prof. Wilson,S108
+2,C,Friday,3:00-5:00,Web Development,Prof. Wilson,S107
+2,D,Monday,2:00-3:30,Web Development,Ms. Davis,S125
+2,D,Monday,10:30-12:00,Computer Networks,Prof. Lewis,S122
+2,D,Monday,12:00-2:00,Cybersecurity,Dr. Brown,S118
+2,D,Tuesday,10:30-12:00,Software Enginee,Mr. Martinez,S120
+2,D,Tuesday,3:00-5:00,Database Systems,Mr. Martinez,S125
+2,D,Tuesday,12:00-2:00,Database Systems,Dr. Lee,S118
+2,D,Wednesday,10:30-12:00,Computer Networks,Dr. Clark,S106
+2,D,Wednesday,12:00-2:00,Cloud Computing,Dr. Clark,S122
+2,D,Thursday,12:00-2:00,Computer Networks,Dr. Lee,S118
+2,D,Thursday,10:30-12:00,Cybersecurity,Prof. Johnson,S110
+2,D,Thursday,2:00-3:30,Data Structures,Dr. Smith,S107
+2,D,Friday,12:00-2:00,Database Systems,Prof. Wilson,S125
+2,D,Friday,3:00-5:00,Data Structures,Mr. Martinez,S101
+2,D,Friday,9:00-10:30,Software Enginee,Prof. Wilson,S119
+3,A,Monday,12:00-2:00,Data Structures,Dr. Lee,S105
+3,A,Monday,3:00-5:00,Computer Networks,Ms. Garcia,S102
+3,A,Monday,10:30-12:00,Software Enginee,Dr. Clark,S115
+3,A,Monday,9:00-10:30,Database Systems,Prof. Wilson,S105
+3,A,Tuesday,12:00-2:00,Software Enginee,Dr. Clark,S106
+3,A,Tuesday,10:30-12:00,Cybersecurity,Dr. Smith,S119
+3,A,Wednesday,2:00-3:30,Artificial Inteli,Ms. Garcia,S125
+3,A,Wednesday,10:30-12:00,Algorithms,Prof. Lewis,S101
+3,A,Wednesday,12:00-2:00,Database Systems,Dr. Brown,S124
+3,A,Thursday,12:00-2:00,Computer Networks,Prof. Lewis,S104
+3,A,Thursday,2:00-3:30,Database Systems,Dr. Clark,S123
+3,A,Friday,9:00-10:30,Cloud Computing,Prof. Wilson,S124
+3,A,Friday,10:30-12:00,Cloud Computing,Ms. Garcia,S108
+3,A,Friday,3:00-5:00,Cybersecurity,Prof. Wilson,S113
+3,B,Monday,10:30-12:00,Operating Systems,Prof. Lewis,S108
+3,B,Monday,12:00-2:00,Algorithms,Dr. Brown,S115
+3,B,Monday,2:00-3:30,Cloud Computing,Prof. Johnson,S118
+3,B,Monday,9:00-10:30,Software Enginee,Mr. Martinez,S108
+3,B,Tuesday,2:00-3:30,Data Structures,Prof. Johnson,S104
+3,B,Tuesday,12:00-2:00,Operating Systems,Ms. Davis,S119
+3,B,Tuesday,9:00-10:30,Algorithms,Prof. Wilson,S114
+3,B,Wednesday,12:00-2:00,Data Structures,Prof. Lewis,S107
+3,B,Wednesday,9:00-10:30,Computer Networks,Dr. Brown,S103
+3,B,Wednesday,2:00-3:30,Algorithms,Dr. Smith,S106
+3,B,Thursday,2:00-3:30,Cloud Computing,Prof. Wilson,S117
+3,B,Thursday,10:30-12:00,Cloud Computing,Prof. Lewis,S109
+3,B,Friday,3:00-5:00,Cybersecurity,Dr. Smith,S105
+3,B,Friday,10:30-12:00,Operating Systems,Dr. Lee,S113
+3,C,Monday,10:30-12:00,Database Systems,Ms. Davis,S123
+3,C,Monday,12:00-2:00,Computer Networks,Dr. Brown,S103
+3,C,Monday,9:00-10:30,Software Enginee,Dr. Lee,S124
+3,C,Tuesday,10:30-12:00,Web Development,Mr. Martinez,S108
+3,C,Tuesday,3:00-5:00,Computer Networks,Dr. Brown,S124
+3,C,Tuesday,2:00-3:30,Cloud Computing,Prof. Johnson,S110
+3,C,Wednesday,12:00-2:00,Computer Networks,Prof. Johnson,S117
+3,C,Wednesday,10:30-12:00,Database Systems,Ms. Garcia,S114
+3,C,Wednesday,2:00-3:30,Database Systems,Dr. Smith,S112
+3,C,Wednesday,3:00-5:00,Database Systems,Prof. Wilson,S104
+3,C,Thursday,10:30-12:00,Algorithms,Mr. Martinez,S121
+3,C,Thursday,12:00-2:00,Cybersecurity,Dr. Clark,S112
+3,C,Friday,9:00-10:30,Cybersecurity,Ms. Garcia,S125
+3,C,Friday,10:30-12:00,Computer Networks,Mr. Martinez,S102
+3,C,Friday,12:00-2:00,Cloud Computing,Dr. Lee,S117
+3,C,Friday,3:00-5:00,Data Structures,Mr. Martinez,S122
+3,D,Monday,9:00-10:30,Operating Systems,Ms. Davis,S107
+3,D,Monday,3:00-5:00,Artificial Inteli,Dr. Brown,S123
+3,D,Tuesday,2:00-3:30,Cybersecurity,Dr. Smith,S114
+3,D,Tuesday,9:00-10:30,Web Development,Mr. Martinez,S113
+3,D,Tuesday,12:00-2:00,Data Structures,Dr. Clark,S110
+3,D,Wednesday,12:00-2:00,Data Structures,Prof. Wilson,S116
+3,D,Wednesday,3:00-5:00,Data Structures,Mr. Martinez,S104
+3,D,Wednesday,2:00-3:30,Cloud Computing,Dr. Smith,S102
+3,D,Thursday,12:00-2:00,Artificial Inteli,Dr. Clark,S122
+3,D,Thursday,10:30-12:00,Algorithms,Prof. Lewis,S102
+3,D,Thursday,9:00-10:30,Operating Systems,Prof. Wilson,S118
+3,D,Friday,9:00-10:30,Computer Networks,Prof. Wilson,S114
+3,D,Friday,12:00-2:00,Algorithms,Dr. Clark,S118
+3,D,Friday,2:00-3:30,Software Enginee,Dr. Brown,S120
+4,A,Monday,2:00-3:30,Data Structures,Ms. Garcia,S103
+4,A,Monday,12:00-2:00,Operating Systems,Prof. Johnson,S103
+4,A,Tuesday,9:00-10:30,Operating Systems,Ms. Garcia,S123
+4,A,Tuesday,10:30-12:00,Cybersecurity,Prof. Johnson,S122
+4,A,Wednesday,10:30-12:00,Algorithms,Ms. Davis,S108
+4,A,Wednesday,3:00-5:00,Computer Networks,Dr. Brown,S122
+4,A,Wednesday,2:00-3:30,Data Structures,Dr. Brown,S116
+4,A,Wednesday,9:00-10:30,Artificial Inteli,Mr. Martinez,S106
+4,A,Thursday,12:00-2:00,Artificial Inteli,Prof. Lewis,S101
+4,A,Thursday,3:00-5:00,Database Systems,Dr. Clark,S119
+4,A,Friday,12:00-2:00,Algorithms,Dr. Clark,S114
+4,A,Friday,9:00-10:30,Operating Systems,Dr. Lee,S105
+4,A,Friday,2:00-3:30,Computer Networks,Mr. Martinez,S121
+4,A,Friday,10:30-12:00,Database Systems,Mr. Martinez,S125
+4,B,Monday,12:00-2:00,Cloud Computing,Mr. Martinez,S113
+4,B,Monday,3:00-5:00,Operating Systems,Prof. Wilson,S118
+4,B,Monday,10:30-12:00,Cybersecurity,Dr. Clark,S116
+4,B,Monday,9:00-10:30,Cloud Computing,Mr. Martinez,S115
+4,B,Tuesday,10:30-12:00,Operating Systems,Mr. Martinez,S107
+4,B,Tuesday,12:00-2:00,Cybersecurity,Prof. Wilson,S110
+4,B,Wednesday,12:00-2:00,Algorithms,Dr. Lee,S123
+4,B,Wednesday,9:00-10:30,Software Enginee,Dr. Clark,S110
+4,B,Thursday,3:00-5:00,Software Enginee,Ms. Davis,S108
+4,B,Thursday,10:30-12:00,Data Structures,Dr. Brown,S116
+4,B,Thursday,9:00-10:30,Cybersecurity,Dr. Brown,S122
+4,B,Thursday,2:00-3:30,Data Structures,Prof. Lewis,S105
+4,B,Friday,2:00-3:30,Web Development,Dr. Clark,S118
+4,B,Friday,3:00-5:00,Database Systems,Ms. Garcia,S103
+4,B,Friday,9:00-10:30,Web Development,Dr. Smith,S118
+4,B,Friday,12:00-2:00,Web Development,Mr. Martinez,S107
+4,C,Monday,2:00-3:30,Web Development,Dr. Smith,S111
+4,C,Monday,10:30-12:00,Cybersecurity,Prof. Lewis,S114
+4,C,Tuesday,3:00-5:00,Data Structures,Dr. Smith,S109
+4,C,Tuesday,9:00-10:30,Database Systems,Ms. Davis,S109
+4,C,Wednesday,10:30-12:00,Cybersecurity,Dr. Smith,S118
+4,C,Wednesday,9:00-10:30,Artificial Inteli,Dr. Smith,S103
+4,C,Thursday,2:00-3:30,Artificial Inteli,Dr. Lee,S104
+4,C,Thursday,9:00-10:30,Algorithms,Prof. Johnson,S102
+4,C,Friday,2:00-3:30,Operating Systems,Ms. Davis,S101
+4,C,Friday,9:00-10:30,Artificial Inteli,Dr. Smith,S115
+4,C,Friday,10:30-12:00,Artificial Inteli,Mr. Martinez,S119
+4,D,Monday,9:00-10:30,Cybersecurity,Ms. Davis,S106
+4,D,Monday,12:00-2:00,Computer Networks,Dr. Lee,S118
+4,D,Monday,2:00-3:30,Cloud Computing,Ms. Garcia,S107
+4,D,Tuesday,9:00-10:30,Operating Systems,Prof. Wilson,S115
+4,D,Tuesday,2:00-3:30,Algorithms,Ms. Garcia,S112
+4,D,Wednesday,2:00-3:30,Data Structures,Mr. Martinez,S104
+4,D,Wednesday,10:30-12:00,Algorithms,Prof. Lewis,S109
+4,D,Wednesday,9:00-10:30,Computer Networks,Ms. Davis,S102
+4,D,Thursday,10:30-12:00,Database Systems,Mr. Martinez,S125
+4,D,Thursday,9:00-10:30,Web Development,Prof. Johnson,S125
+4,D,Thursday,3:00-5:00,Computer Networks,Prof. Wilson,S107
+4,D,Thursday,2:00-3:30,Cloud Computing,Ms. Davis,S120
+4,D,Friday,9:00-10:30,Cybersecurity,Prof. Lewis,S110
+4,D,Friday,2:00-3:30,Data Structures,Dr. Clark,S110
+5,A,Monday,9:00-10:30,Computer Networks,Dr. Lee,S104
+5,A,Monday,2:00-3:30,Artificial Inteli,Ms. Garcia,S124
+5,A,Tuesday,2:00-3:30,Web Development,Ms. Garcia,S119
+5,A,Tuesday,10:30-12:00,Computer Networks,Prof. Wilson,S105
+5,A,Wednesday,12:00-2:00,Data Structures,Dr. Brown,S104
+5,A,Wednesday,2:00-3:30,Algorithms,Prof. Johnson,S104
+5,A,Wednesday,9:00-10:30,Operating Systems,Mr. Martinez,S108
+5,A,Wednesday,3:00-5:00,Data Structures,Prof. Wilson,S115
+5,A,Thursday,12:00-2:00,Cybersecurity,Prof. Lewis,S112
+5,A,Thursday,10:30-12:00,Cybersecurity,Dr. Brown,S109
+5,A,Thursday,9:00-10:30,Computer Networks,Ms. Garcia,S116
+5,A,Friday,10:30-12:00,Database Systems,Ms. Garcia,S110
+5,A,Friday,9:00-10:30,Cloud Computing,Dr. Smith,S115
+5,A,Friday,3:00-5:00,Cybersecurity,Dr. Clark,S121
+5,A,Friday,2:00-3:30,Operating Systems,Prof. Wilson,S113
+5,B,Monday,12:00-2:00,Software Enginee,Mr. Martinez,S105
+5,B,Monday,9:00-10:30,Data Structures,Mr. Martinez,S124
+5,B,Tuesday,12:00-2:00,Algorithms,Dr. Smith,S116
+5,B,Tuesday,10:30-12:00,Operating Systems,Dr. Smith,S117
+5,B,Wednesday,10:30-12:00,Cybersecurity,Dr. Lee,S121
+5,B,Wednesday,12:00-2:00,Database Systems,Dr. Lee,S122
+5,B,Wednesday,9:00-10:30,Algorithms,Mr. Martinez,S111
+5,B,Thursday,3:00-5:00,Cybersecurity,Dr. Brown,S120
+5,B,Thursday,12:00-2:00,Cybersecurity,Prof. Wilson,S101
+5,B,Friday,9:00-10:30,Data Structures,Ms. Davis,S124
+5,B,Friday,3:00-5:00,Software Enginee,Dr. Smith,S109
+5,C,Monday,3:00-5:00,Data Structures,Mr. Martinez,S122
+5,C,Monday,10:30-12:00,Database Systems,Mr. Martinez,S111
+5,C,Monday,12:00-2:00,Computer Networks,Dr. Lee,S118
+5,C,Monday,9:00-10:30,Cloud Computing,Dr. Smith,S117
+5,C,Tuesday,10:30-12:00,Algorithms,Mr. Martinez,S122
+5,C,Tuesday,2:00-3:30,Software Enginee,Prof. Wilson,S119
+5,C,Tuesday,3:00-5:00,Cloud Computing,Mr. Martinez,S125
+5,C,Tuesday,12:00-2:00,Computer Networks,Dr. Lee,S113
+5,C,Wednesday,9:00-10:30,Software Enginee,Prof. Lewis,S109
+5,C,Wednesday,10:30-12:00,Computer Networks,Ms. Davis,S116
+5,C,Wednesday,12:00-2:00,Database Systems,Prof. Wilson,S121
+5,C,Wednesday,2:00-3:30,Algorithms,Prof. Wilson,S123
+5,C,Thursday,2:00-3:30,Algorithms,Ms. Davis,S103
+5,C,Thursday,10:30-12:00,Software Enginee,Dr. Brown,S113
+5,C,Thursday,12:00-2:00,Artificial Inteli,Ms. Davis,S103
+5,C,Friday,3:00-5:00,Web Development,Prof. Lewis,S121
+5,C,Friday,12:00-2:00,Web Development,Ms. Davis,S110
+5,C,Friday,2:00-3:30,Software Enginee,Ms. Garcia,S111
+5,C,Friday,10:30-12:00,Database Systems,Dr. Clark,S104
+5,D,Monday,12:00-2:00,Operating Systems,Prof. Johnson,S121
+5,D,Monday,9:00-10:30,Software Enginee,Ms. Davis,S111
+5,D,Tuesday,12:00-2:00,Artificial Inteli,Mr. Martinez,S111
+5,D,Tuesday,9:00-10:30,Cloud Computing,Ms. Davis,S114
+5,D,Tuesday,2:00-3:30,Computer Networks,Ms. Garcia,S124
+5,D,Wednesday,3:00-5:00,Operating Systems,Prof. Lewis,S114
+5,D,Wednesday,9:00-10:30,Artificial Inteli,Dr. Smith,S107
+5,D,Wednesday,12:00-2:00,Algorithms,Dr. Smith,S117
+5,D,Wednesday,10:30-12:00,Database Systems,Ms. Davis,S104
+5,D,Thursday,12:00-2:00,Operating Systems,Mr. Martinez,S109
+5,D,Thursday,3:00-5:00,Computer Networks,Dr. Brown,S117
+5,D,Thursday,9:00-10:30,Database Systems,Prof. Johnson,S117
+5,D,Thursday,10:30-12:00,Data Structures,Dr. Brown,S104
+5,D,Friday,3:00-5:00,Artificial Inteli,Ms. Davis,S124
+5,D,Friday,9:00-10:30,Operating Systems,Ms. Davis,S103
+5,D,Friday,10:30-12:00,Database Systems,Mr. Martinez,S112
+6,A,Monday,9:00-10:30,Operating Systems,Dr. Smith,S102
+6,A,Monday,2:00-3:30,Data Structures,Dr. Clark,S120
+6,A,Monday,12:00-2:00,Algorithms,Prof. Wilson,S121
+6,A,Monday,3:00-5:00,Database Systems,Dr. Clark,S112
+6,A,Tuesday,9:00-10:30,Cloud Computing,Dr. Smith,S112
+6,A,Tuesday,12:00-2:00,Cybersecurity,Dr. Brown,S124
+6,A,Tuesday,3:00-5:00,Cloud Computing,Ms. Davis,S111
+6,A,Tuesday,10:30-12:00,Software Enginee,Dr. Lee,S123
+6,A,Wednesday,2:00-3:30,Operating Systems,Prof. Wilson,S113
+6,A,Wednesday,3:00-5:00,Cybersecurity,Dr. Brown,S109
+6,A,Thursday,3:00-5:00,Data Structures,Prof. Wilson,S116
+6,A,Thursday,9:00-10:30,Algorithms,Ms. Garcia,S122
+6,A,Thursday,2:00-3:30,Algorithms,Prof. Johnson,S118
+6,A,Friday,12:00-2:00,Operating Systems,Dr. Clark,S123
+6,A,Friday,10:30-12:00,Operating Systems,Prof. Lewis,S111
+6,B,Monday,2:00-3:30,Operating Systems,Dr. Lee,S118
+6,B,Monday,12:00-2:00,Data Structures,Dr. Clark,S113
+6,B,Monday,9:00-10:30,Algorithms,Prof. Johnson,S115
+6,B,Tuesday,12:00-2:00,Cloud Computing,Dr. Clark,S123
+6,B,Tuesday,2:00-3:30,Artificial Inteli,Mr. Martinez,S115
+6,B,Wednesday,2:00-3:30,Database Systems,Ms. Garcia,S119
+6,B,Wednesday,12:00-2:00,Database Systems,Dr. Clark,S125
+6,B,Wednesday,9:00-10:30,Web Development,Dr. Lee,S113
+6,B,Wednesday,10:30-12:00,Algorithms,Dr. Smith,S109
+6,B,Thursday,10:30-12:00,Artificial Inteli,Dr. Smith,S118
+6,B,Thursday,12:00-2:00,Cloud Computing,Mr. Martinez,S114
+6,B,Thursday,2:00-3:30,Database Systems,Prof. Lewis,S121
+6,B,Thursday,3:00-5:00,Cybersecurity,Dr. Clark,S104
+6,B,Friday,10:30-12:00,Cybersecurity,Dr. Brown,S101
+6,B,Friday,9:00-10:30,Artificial Inteli,Ms. Davis,S123
+6,B,Friday,12:00-2:00,Software Enginee,Dr. Smith,S104
+6,C,Monday,9:00-10:30,Data Structures,Ms. Garcia,S106
+6,C,Monday,3:00-5:00,Algorithms,Ms. Garcia,S111
+6,C,Monday,2:00-3:30,Artificial Inteli,Prof. Johnson,S124
+6,C,Monday,12:00-2:00,Algorithms,Dr. Brown,S119
+6,C,Tuesday,12:00-2:00,Computer Networks,Ms. Davis,S110
+6,C,Tuesday,3:00-5:00,Cloud Computing,Dr. Lee,S112
+6,C,Tuesday,2:00-3:30,Web Development,Dr. Smith,S119
+6,C,Wednesday,10:30-12:00,Operating Systems,Mr. Martinez,S115
+6,C,Wednesday,2:00-3:30,Software Enginee,Prof. Lewis,S115
+6,C,Wednesday,12:00-2:00,Cloud Computing,Mr. Martinez,S120
+6,C,Wednesday,3:00-5:00,Operating Systems,Dr. Lee,S102
+6,C,Thursday,12:00-2:00,Cloud Computing,Prof. Wilson,S120
+6,C,Thursday,3:00-5:00,Computer Networks,Prof. Lewis,S112
+6,C,Thursday,9:00-10:30,Cybersecurity,Ms. Garcia,S115
+6,C,Thursday,10:30-12:00,Computer Networks,Prof. Johnson,S124
+6,C,Friday,9:00-10:30,Algorithms,Dr. Smith,S112
+6,C,Friday,3:00-5:00,Database Systems,Ms. Davis,S121
+6,D,Monday,12:00-2:00,Algorithms,Ms. Davis,S122
+6,D,Monday,2:00-3:30,Computer Networks,Ms. Davis,S108
+6,D,Monday,10:30-12:00,Cybersecurity,Dr. Clark,S118
+6,D,Tuesday,10:30-12:00,Cloud Computing,Dr. Smith,S116
+6,D,Tuesday,12:00-2:00,Database Systems,Dr. Lee,S112
+6,D,Tuesday,2:00-3:30,Cybersecurity,Mr. Martinez,S105
+6,D,Tuesday,9:00-10:30,Cybersecurity,Dr. Brown,S107
+6,D,Wednesday,10:30-12:00,Operating Systems,Dr. Lee,S110
+6,D,Wednesday,9:00-10:30,Data Structures,Mr. Martinez,S107
+6,D,Thursday,9:00-10:30,Artificial Inteli,Dr. Clark,S103
+6,D,Thursday,12:00-2:00,Cloud Computing,Prof. Wilson,S106
+6,D,Thursday,2:00-3:30,Data Structures,Prof. Lewis,S109
+6,D,Thursday,3:00-5:00,Artificial Inteli,Prof. Johnson,S123
+6,D,Friday,2:00-3:30,Artificial Inteli,Ms. Davis,S125
+6,D,Friday,12:00-2:00,Software Enginee,Prof. Johnson,S114
+6,D,Friday,10:30-12:00,Database Systems,Mr. Martinez,S118
+6,D,Friday,3:00-5:00,Data Structures,Dr. Brown,S116
+7,A,Monday,10:30-12:00,Operating Systems,Prof. Johnson,S101
+7,A,Monday,2:00-3:30,Data Structures,Prof. Wilson,S115
+7,A,Monday,3:00-5:00,Algorithms,Ms. Davis,S112
+7,A,Tuesday,10:30-12:00,Software Enginee,Dr. Lee,S104
+7,A,Tuesday,3:00-5:00,Computer Networks,Dr. Clark,S118
+7,A,Tuesday,2:00-3:30,Cloud Computing,Dr. Clark,S118
+7,A,Tuesday,12:00-2:00,Data Structures,Ms. Garcia,S107
+7,A,Wednesday,3:00-5:00,Computer Networks,Dr. Lee,S122
+7,A,Wednesday,9:00-10:30,Web Development,Dr. Lee,S108
+7,A,Wednesday,12:00-2:00,Cybersecurity,Prof. Johnson,S104
+7,A,Thursday,9:00-10:30,Data Structures,Dr. Clark,S121
+7,A,Thursday,12:00-2:00,Data Structures,Ms. Garcia,S115
+7,A,Friday,2:00-3:30,Software Enginee,Prof. Johnson,S114
+7,A,Friday,9:00-10:30,Web Development,Dr. Smith,S113
+7,A,Friday,10:30-12:00,Algorithms,Mr. Martinez,S105
+7,B,Monday,2:00-3:30,Algorithms,Ms. Davis,S103
+7,B,Monday,12:00-2:00,Data Structures,Prof. Wilson,S112
+7,B,Monday,10:30-12:00,Computer Networks,Prof. Johnson,S119
+7,B,Monday,3:00-5:00,Web Development,Dr. Clark,S109
+7,B,Tuesday,3:00-5:00,Data Structures,Prof. Lewis,S101
+7,B,Tuesday,10:30-12:00,Cloud Computing,Dr. Clark,S111
+7,B,Wednesday,9:00-10:30,Operating Systems,Dr. Smith,S106
+7,B,Wednesday,12:00-2:00,Database Systems,Ms. Garcia,S117
+7,B,Thursday,12:00-2:00,Algorithms,Ms. Davis,S120
+7,B,Thursday,10:30-12:00,Operating Systems,Prof. Lewis,S109
+7,B,Thursday,2:00-3:30,Operating Systems,Prof. Johnson,S102
+7,B,Friday,3:00-5:00,Operating Systems,Prof. Lewis,S118
+7,B,Friday,9:00-10:30,Web Development,Prof. Johnson,S123
+7,B,Friday,10:30-12:00,Cloud Computing,Ms. Davis,S117
+7,B,Friday,2:00-3:30,Data Structures,Prof. Johnson,S104
+7,C,Monday,3:00-5:00,Computer Networks,Dr. Clark,S110
+7,C,Monday,10:30-12:00,Operating Systems,Ms. Davis,S104
+7,C,Tuesday,12:00-2:00,Computer Networks,Dr. Lee,S102
+7,C,Tuesday,9:00-10:30,Cloud Computing,Dr. Brown,S114
+7,C,Wednesday,12:00-2:00,Artificial Inteli,Ms. Davis,S117
+7,C,Wednesday,2:00-3:30,Computer Networks,Prof. Lewis,S116
+7,C,Wednesday,10:30-12:00,Cybersecurity,Dr. Brown,S104
+7,C,Thursday,12:00-2:00,Artificial Inteli,Ms. Garcia,S120
+7,C,Thursday,9:00-10:30,Operating Systems,Dr. Smith,S112
+7,C,Thursday,10:30-12:00,Data Structures,Dr. Lee,S120
+7,C,Thursday,2:00-3:30,Computer Networks,Prof. Lewis,S116
+7,C,Friday,10:30-12:00,Database Systems,Dr. Smith,S114
+7,C,Friday,2:00-3:30,Computer Networks,Prof. Wilson,S112
+7,C,Friday,12:00-2:00,Database Systems,Prof. Wilson,S124
+7,D,Monday,2:00-3:30,Algorithms,Prof. Johnson,S115
+7,D,Monday,12:00-2:00,Computer Networks,Dr. Smith,S108
+7,D,Tuesday,3:00-5:00,Cybersecurity,Ms. Davis,S121
+7,D,Tuesday,9:00-10:30,Operating Systems,Prof. Lewis,S106
+7,D,Tuesday,10:30-12:00,Software Enginee,Prof. Lewis,S105
+7,D,Tuesday,2:00-3:30,Operating Systems,Prof. Johnson,S121
+7,D,Wednesday,12:00-2:00,Software Enginee,Mr. Martinez,S102
+7,D,Wednesday,3:00-5:00,Database Systems,Dr. Lee,S101
+7,D,Wednesday,2:00-3:30,Operating Systems,Prof. Wilson,S117
+7,D,Thursday,9:00-10:30,Cybersecurity,Dr. Clark,S121
+7,D,Thursday,3:00-5:00,Computer Networks,Ms. Davis,S125
+7,D,Thursday,10:30-12:00,Database Systems,Ms. Garcia,S107
+7,D,Friday,9:00-10:30,Software Enginee,Dr. Lee,S117
+7,D,Friday,12:00-2:00,Cloud Computing,Dr. Clark,S109
+7,D,Friday,2:00-3:30,Operating Systems,Prof. Lewis,S103
+8,A,Monday,3:00-5:00,Artificial Inteli,Prof. Lewis,S120
+8,A,Monday,9:00-10:30,Software Enginee,Dr. Clark,S107
+8,A,Monday,12:00-2:00,Database Systems,Prof. Johnson,S102
+8,A,Monday,10:30-12:00,Computer Networks,Dr. Clark,S110
+8,A,Tuesday,3:00-5:00,Computer Networks,Ms. Davis,S112
+8,A,Tuesday,2:00-3:30,Cybersecurity,Prof. Johnson,S110
+8,A,Wednesday,9:00-10:30,Database Systems,Prof. Johnson,S120
+8,A,Wednesday,10:30-12:00,Cybersecurity,Dr. Clark,S124
+8,A,Thursday,2:00-3:30,Computer Networks,Dr. Brown,S121
+8,A,Thursday,12:00-2:00,Web Development,Ms. Davis,S103
+8,A,Friday,12:00-2:00,Artificial Inteli,Prof. Lewis,S121
+8,A,Friday,2:00-3:30,Cloud Computing,Ms. Garcia,S121
+8,A,Friday,10:30-12:00,Algorithms,Dr. Lee,S110
+8,B,Monday,2:00-3:30,Cloud Computing,Ms. Garcia,S121
+8,B,Monday,3:00-5:00,Data Structures,Dr. Brown,S117
+8,B,Monday,12:00-2:00,Software Enginee,Ms. Davis,S116
+8,B,Monday,9:00-10:30,Software Enginee,Dr. Smith,S108
+8,B,Tuesday,2:00-3:30,Artificial Inteli,Dr. Lee,S113
+8,B,Tuesday,9:00-10:30,Cybersecurity,Dr. Clark,S102
+8,B,Wednesday,10:30-12:00,Cybersecurity,Dr. Smith,S120
+8,B,Wednesday,12:00-2:00,Cybersecurity,Mr. Martinez,S121
+8,B,Wednesday,2:00-3:30,Artificial Inteli,Ms. Davis,S117
+8,B,Thursday,9:00-10:30,Artificial Inteli,Dr. Brown,S111
+8,B,Thursday,2:00-3:30,Operating Systems,Dr. Lee,S119
+8,B,Thursday,10:30-12:00,Web Development,Mr. Martinez,S112
+8,B,Friday,10:30-12:00,Artificial Inteli,Prof. Lewis,S103
+8,B,Friday,9:00-10:30,Artificial Inteli,Dr. Smith,S116
+8,B,Friday,12:00-2:00,Cybersecurity,Dr. Lee,S125
+8,B,Friday,3:00-5:00,Cybersecurity,Dr. Brown,S106
+8,C,Monday,9:00-10:30,Data Structures,Dr. Lee,S116
+8,C,Monday,3:00-5:00,Database Systems,Mr. Martinez,S119
+8,C,Monday,2:00-3:30,Web Development,Prof. Johnson,S102
+8,C,Tuesday,10:30-12:00,Algorithms,Prof. Johnson,S105
+8,C,Tuesday,3:00-5:00,Artificial Inteli,Prof. Johnson,S117
+8,C,Tuesday,2:00-3:30,Artificial Inteli,Prof. Johnson,S122
+8,C,Tuesday,9:00-10:30,Cybersecurity,Dr. Brown,S112
+8,C,Wednesday,10:30-12:00,Cybersecurity,Mr. Martinez,S124
+8,C,Wednesday,9:00-10:30,Database Systems,Ms. Davis,S121
+8,C,Wednesday,3:00-5:00,Web Development,Dr. Brown,S105
+8,C,Wednesday,2:00-3:30,Web Development,Dr. Clark,S104
+8,C,Thursday,12:00-2:00,Cybersecurity,Mr. Martinez,S125
+8,C,Thursday,10:30-12:00,Software Enginee,Prof. Lewis,S104
+8,C,Thursday,2:00-3:30,Artificial Inteli,Prof. Johnson,S105
+8,C,Thursday,3:00-5:00,Web Development,Dr. Lee,S123
+8,C,Friday,2:00-3:30,Artificial Inteli,Prof. Wilson,S120
+8,C,Friday,10:30-12:00,Data Structures,Mr. Martinez,S113
+8,C,Friday,9:00-10:30,Operating Systems,Dr. Brown,S122
+8,D,Monday,12:00-2:00,Computer Networks,Dr. Smith,S112
+8,D,Monday,10:30-12:00,Cloud Computing,Ms. Garcia,S125
+8,D,Tuesday,12:00-2:00,Artificial Inteli,Dr. Clark,S110
+8,D,Tuesday,9:00-10:30,Data Structures,Dr. Brown,S118
+8,D,Tuesday,2:00-3:30,Cloud Computing,Prof. Wilson,S102
+8,D,Tuesday,3:00-5:00,Cloud Computing,Mr. Martinez,S112
+8,D,Wednesday,10:30-12:00,Database Systems,Prof. Johnson,S120
+8,D,Wednesday,12:00-2:00,Cybersecurity,Ms. Garcia,S101
+8,D,Thursday,3:00-5:00,Cloud Computing,Prof. Johnson,S110
+8,D,Thursday,12:00-2:00,Web Development,Prof. Johnson,S110
+8,D,Friday,2:00-3:30,Software Enginee,Mr. Martinez,S119
+8,D,Friday,12:00-2:00,Web Development,Prof. Wilson,S118
+8,D,Friday,9:00-10:30,Data Structures,Prof. Lewis,S118
+8,D,Friday,10:30-12:00,Web Development,Dr. Clark,S113
